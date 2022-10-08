@@ -1,2 +1,2 @@
-# Site-est-tico-f1
+# Site-estático-f1
 Pequeno projeto com html e css
